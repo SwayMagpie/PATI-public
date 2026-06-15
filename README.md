@@ -1,7 +1,7 @@
 # PATI — Permission-Aware Tool Interfaces  
 *A structural safety layer for ReAct agents enforcing least‑privilege tool execution.*
 
-https://doi.org/10.5281/zenodo.20679999
+[https://doi.org/10.5281/zenodo.20679999](https://doi.org/10.5281/zenodo.20685234)
 
 ## Overview
 ReAct agents can call external tools, giving them powerful capabilities — and equally powerful risks.  
